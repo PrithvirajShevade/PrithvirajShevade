@@ -35,4 +35,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge]("https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithviraj shevade" height="30" width="40")
+[![Linkedin Badge]("https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg")
